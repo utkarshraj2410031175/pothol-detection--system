@@ -1,0 +1,7 @@
+{
+  "name": "Pothole Detection & Maintenance System",
+  "description": "Professional pothole detection and road maintenance-management platform with YOLO AI confidence analysis, priority scoring, and interactive mapping.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
